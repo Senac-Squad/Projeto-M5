@@ -40,7 +40,7 @@ já no terminal inicie o projeto com os seguintes comandos:
 ### GET
 
 ### POST
-
+![POST](https://user-images.githubusercontent.com/112559869/227970024-d4f17e72-0ec8-49cc-ac17-c1c62dcfc0f2.png)
 ### PUT
 
 ### DELETE
