@@ -38,7 +38,7 @@ já no terminal inicie o projeto com os seguintes comandos:
 <br>
 <br>
 ### GET
-https://github.com/Senac-Squad/Projeto-M5/issues/5#issue-1642213184
+![GET](https://user-images.githubusercontent.com/112559869/227973072-dcbf117f-0da3-4b05-9ef0-f9109af5569b.png)
 ### POST
 ![POST](https://user-images.githubusercontent.com/112559869/227970024-d4f17e72-0ec8-49cc-ac17-c1c62dcfc0f2.png)
 ### PUT
