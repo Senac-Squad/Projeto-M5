@@ -34,3 +34,13 @@ já no terminal inicie o projeto com os seguintes comandos:
 
 ```/pedido/id/encomenda```
 ```/pedido/id/encomenda/id```
+<br>
+<br>
+<br>
+### GET
+
+### POST
+
+### PUT
+
+### DELETE
