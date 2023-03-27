@@ -44,3 +44,4 @@ já no terminal inicie o projeto com os seguintes comandos:
 ### PUT
 
 ### DELETE
+![DELETE](https://user-images.githubusercontent.com/112559869/227969491-e2bb4624-6d24-4ef7-9e40-81addea4da58.png)
